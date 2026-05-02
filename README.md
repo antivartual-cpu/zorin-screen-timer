@@ -8,6 +8,9 @@ Repository name assumption: `zorin-screen-timer`
 
 ## Screenshot
 
+![Zorin Screen Timer screenshot](screenshots/zorin-screen-timer-main.jpg)
+
+
 Add a screenshot here after capturing the app on Zorin OS.
 
 ```text
