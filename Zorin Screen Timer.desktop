@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Zorin Screen Timer
+Comment=Set longer screen timeout values on Zorin OS
+Exec=__APP_DIR__/run_zorin_screen_timer.sh
+Icon=__ICON_PATH__
+Terminal=false
+Categories=Utility;Settings;

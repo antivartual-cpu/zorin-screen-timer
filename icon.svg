@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-label="Zorin Screen Timer icon">
+  <defs>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7db9ff"/>
+      <stop offset="0.45" stop-color="#2f7ed8"/>
+      <stop offset="1" stop-color="#0a3f8f"/>
+    </linearGradient>
+    <linearGradient id="bezel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f8f8f8"/>
+      <stop offset="1" stop-color="#b8b8b8"/>
+    </linearGradient>
+    <linearGradient id="clock" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#d8ecff"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="16" width="88" height="66" rx="5" fill="url(#bezel)" stroke="#315b91" stroke-width="3"/>
+  <rect x="17" y="23" width="74" height="48" rx="2" fill="url(#screen)" stroke="#ffffff" stroke-width="2"/>
+  <path d="M43 83h22l4 16H39z" fill="#8e8e8e" stroke="#555" stroke-width="2"/>
+  <rect x="30" y="99" width="48" height="9" rx="3" fill="#c9c9c9" stroke="#666" stroke-width="2"/>
+  <circle cx="85" cy="78" r="31" fill="#2d6eb8" stroke="#0a3f8f" stroke-width="4"/>
+  <circle cx="85" cy="78" r="24" fill="url(#clock)" stroke="#ffffff" stroke-width="2"/>
+  <path d="M85 62v17l13 8" fill="none" stroke="#0a3f8f" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="85" cy="78" r="4" fill="#0a3f8f"/>
+  <path d="M66 35h36v13H66z" fill="#ffd34d" stroke="#9b6c00" stroke-width="2"/>
+</svg>
